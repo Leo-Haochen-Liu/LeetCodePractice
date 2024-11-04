@@ -1,0 +1,1 @@
+for easy leetcode practice
